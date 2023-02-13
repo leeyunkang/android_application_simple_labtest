@@ -20,5 +20,3 @@ Material Selection: Select the material you intend to use for the product.
 Size Selection: Choose the appropriate size variation for the product.
 Automatic Calculation: The app will automatically calculate the subtotal, VAT, and total cost based on your selections.
 Note:
-The specific features and functionalities may vary depending on the actual application.
-This example is based on the information provided, but the actual app may include additional features or variations in calculations.
