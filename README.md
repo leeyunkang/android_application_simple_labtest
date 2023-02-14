@@ -28,4 +28,4 @@ This mobile application helps calculate the total cost of a product, including t
 ## Note:
 
 - The specific features and functionalities might vary depending on the actual application.
-- This example uses the information provided in the image, bue actual app might have additional features or variations in calculations.
+- This example uses the information provided in the image, but the actual app might have additional features or variations in calculations.
